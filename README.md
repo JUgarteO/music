@@ -1,3 +1,3 @@
 # music
 listen to my songs here
-https://jugarteo.github.io/xfiles/
+https://jugarteo.github.io/music/
